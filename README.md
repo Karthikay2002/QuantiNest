@@ -27,7 +27,7 @@
 ## Quantitative Stats
 - **5% Higher Annual Returns**: Backtested predictive models have demonstrated an annual performance 5% higher than the S&P 500 index.
 - **Real-Time Performance**: The platform provides dynamic updates with less than a 5-second latency for market sentiment analysis and portfolio rebalancing.
-- **Enhanced Backtesting Efficiency**: Backtesting and strategy optimizations deliver actionable insights in under 30 seconds, reducing typical analysis times by 40%.
+- **Enhanced Backtesting Efficiency**: Backtesting and strategy optimizations deliver actionable insights in under 30 seconds.
 
 ## Installation
 
