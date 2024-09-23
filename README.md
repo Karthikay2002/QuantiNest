@@ -35,17 +35,10 @@ To get started with **QuantiNest**, follow these steps:
 
 1. Clone the repository:
 
-
 2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 3. Run the application:
-'''   ```bash
-   streamlit run app.py
-   ```
-'''
+
 ## Usage
 
 ### 1. **Trading Strategy Optimization**
