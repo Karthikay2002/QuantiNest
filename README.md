@@ -42,10 +42,10 @@ To get started with **QuantiNest**, follow these steps:
    ```
 
 3. Run the application:
-   ```bash
+'''   ```bash
    streamlit run app.py
    ```
-
+'''
 ## Usage
 
 ### 1. **Trading Strategy Optimization**
